@@ -4,6 +4,8 @@
 - 🌱 I’m currently studying educational technology.
 - 👯 I’m looking to collaborate on engineers contributing with open source projects.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kromiii)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kromiii/kromiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
