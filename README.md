@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Ph.D. student at Kyoto University.
-- 🌱 I’m currently studying educational technology.
+- 🔭 I’m a software engineer at GMO Pepabo Inc.
+- 🌱 I'm interested in web programming.
 - 👯 I’m looking to collaborate on engineers contributing with open source projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kromiii)](https://github.com/anuraghazra/github-readme-stats)
