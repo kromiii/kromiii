@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m a software engineer at GMO Pepabo Inc.
-- 🌱 I'm interested in web programming.
-- 👯 I’m looking to collaborate on engineers contributing with open source projects.
+- 🔭 I’m a junior software engineer at GMO Pepabo Inc.
+- 🌱 I specialized in learning analytics and published some papers about evidence-based learning support (ph.d. in 2023).
+- 👯 I love writing essays and exercising at the gym.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kromiii)](https://github.com/anuraghazra/github-readme-stats)
 
