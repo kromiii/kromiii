@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a junior software engineer at GMO Pepabo Inc.
+- 🔭 I’m a junior developer at GMO Pepabo Inc.
 - 🌱 I specialized in learning analytics and published some papers about evidence-based learning support (ph.d. in 2023).
 - 👯 I love writing essays and exercising at the gym.
 
