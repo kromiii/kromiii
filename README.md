@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Currently, I’m working as a SWE at GMO Pepabo Inc.
-- 🌱 Ph.D in 2023 in learning analytics and published several papers about evidence-based education from learning analytics perspectives.
-- 👯 In hobby, I love writing essays and exercising at the gym.
+- 🔭 I’m a software engineer at GMO Pepabo Inc.
+- 🌱 I received Ph.D in 2023 in educational technology field.
+- 👯 I am good at statistics and buisiness technology.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kromiii)](https://github.com/anuraghazra/github-readme-stats)
 
