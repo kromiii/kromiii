@@ -2,7 +2,7 @@
 
 - 🔭 I’m a software engineer at GMO Pepabo Inc.
 - 🌱 I received Ph.D in 2023 in educational technology field.
-- 👯 I am good at statistics and buisiness technology.
+- 👯 My hobby is writing small programs that make my work a little easier.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kromiii)](https://github.com/anuraghazra/github-readme-stats)
 
