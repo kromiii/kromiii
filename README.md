@@ -1,22 +1,41 @@
-### Hi there 👋
+# Hi there, I'm kromiii! 👋
 
-- 🔭 I’m a software engineer at GMO Pepabo Inc.
-- 🌱 I received Ph.D in 2023 in educational technology field.
-- 👯 My hobby is writing small programs that make my work a little easier.
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and solving problems. Here you'll find some of my projects, contributions, and more about me.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kromiii)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 About Me
 
-<!--
-**kromiii/kromiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a software developer with a focus on web application.
+- 🌱 I’m currently learning site reliability engineering.
+- 👯 I’m looking to collaborate on educational technology software.
+- 💬 Ask me about web application development.
+- 📫 How to reach me: contact@kromiii.info
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: Python, R, Ruby, Go, Typescript
+- Frameworks & Libraries: Ruby on Rails, NextJS, WXT
+- Tools & Platforms: Git, Docker, Kubernetes
+
+## 📈 GitHub Stats
+
+![kromiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=kromiii&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![kromiii's GitHub trophies](https://github-profile-trophy.vercel.app/?username=kromiii&theme=radical)
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/hiroyuki-kuromiya/)
+- [Twitter](https://x.com/khiroyuki1993)
+- [Personal Website](https://kromiii.info/)
+
+## 📍 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kromiii&repo=tbls-ask-agent-slack&theme=radical)](https://github.com/kromiii/tbls-ask-agent-slack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kromiii&repo=notion-to-slides&theme=radical)](https://github.com/kromiii/notion-to-slides)
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just say hi! 😊
