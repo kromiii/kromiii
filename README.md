@@ -25,7 +25,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🏆 GitHub Trophies
 
-![kromiii's GitHub trophies](https://github-profile-trophy.vercel.app/?username=kromiii&theme=radical)
+![kromiii's GitHub trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=kromiii&theme=radical)
 
 ## 🔗 Connect with Me
 
