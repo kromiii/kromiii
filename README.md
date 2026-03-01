@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![kromiii's GitHub stats](https://github-readme-stats-2j3j4qjrm-kromiiis-projects.vercel.app/api?username=kromiii&show_icons=true&theme=radical)
+![kromiii's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kromiii&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
