@@ -1,22 +1,17 @@
 # Hi there, I'm kromiii! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and solving problems. Here you'll find some of my projects, contributions, and more about me.
-
 ## 🚀 About Me
 
-- 💻 I'm a software developer with a focus on web application.
-- 🌱 I’m currently learning site reliability engineering.
-- 👯 I’m looking to collaborate on educational technology software.
-- 💬 Ask me about web application development.
+- 💻 I'm a researcher and software developer working at National Institute of Informatics, Japan.
+- 🌱 I’m currently working on the AI for Science project at [Center of Cloud Reseasrch and Development](https://ccrd.nii.ac.jp/index.html).
 - 📫 How to reach me: contact@kromiii.info
-- 😄 Pronouns: he/him
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, R, Ruby, Go, Typescript
-- Frameworks & Libraries: Ruby on Rails, NextJS, WXT
+- Frameworks & Libraries: Ruby on Rails, NextJS
 - Tools & Platforms: Git, Docker, Kubernetes
 
 ## 📈 GitHub Stats
@@ -26,5 +21,5 @@ Here are some of the technologies and tools I work with:
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/hiroyuki-kuromiya/)
-- [Twitter](https://x.com/khiroyuki1993)
-- [Personal Website](https://kromiii.info/)
+- [Bluesky](https://bsky.app/profile/kromiii.info)
+- [Website](https://kromiii.info/)
