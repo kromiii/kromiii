@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 💻 I'm a researcher and software developer working at National Institute of Informatics, Japan.
-- 🌱 I’m currently working on the AI for Science project at [Center of Cloud Reseasrch and Development](https://ccrd.nii.ac.jp/index.html).
+- 🌱 I’m currently working on the Electoronic Lab Notes project at [Center of Cloud Reseasrch and Development](https://ccrd.nii.ac.jp/index.html).
 - 📫 How to reach me: contact@kromiii.info
 
 ## 🛠️ Technologies & Tools
